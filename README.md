@@ -1,4 +1,4 @@
-# evaluador_tendencias_twitter
+# evaluador_tendencias_twitter ([Revisar informe](https://github.com/thunsupay/evaluador_tendencias_twitter/blob/main/Informe%20TFM%20-%20Edward%20L%C3%B3pez.pdf))
 Herramienta en Python que permite evaluar tendencias de Twitter.
 
 El aplicativo requiere un archivo con las variables de entorno, las variables de entorno deben quedar de la siguiente forma:
